@@ -1,9 +1,0 @@
-﻿There's a pause; as if contemplating your answer...
-
-Guide: "A strange name for a being such as yourself."
-
-Two Objects appear before you;  A Sword on the left, and a Wand on the right. 
-Which  do you reach out for?
-
-1. Sword
-2. Wand
